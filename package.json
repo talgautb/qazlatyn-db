@@ -1,0 +1,25 @@
+{
+  "name": "qazlatyn-db",
+  "version": "1.0.0",
+  "description": "Raw data of kazakh latin alphabet (qazaq latyn).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talgautb/qazlatyn-db.git"
+  },
+  "keywords": [
+    "kazakh",
+    "qazaq",
+    "latin",
+    "alphabet"
+  ],
+  "author": "talgautb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talgautb/qazlatyn-db/issues"
+  },
+  "homepage": "https://github.com/talgautb/qazlatyn-db#readme"
+}
