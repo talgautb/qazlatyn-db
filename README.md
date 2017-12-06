@@ -21,7 +21,9 @@ qazLatyn['қ']; // q
 
 ## License
 
-MIT © [Talgat Uspanov](http://gtalk.kz)
+Licensed under [MIT](LICENSE.md)
+
+made by [Talgat Uspanov](http://gtalk.kz)
 
 [npm-url]: https://npmjs.org/package/qazlatyn-db
 [npm-image]: https://img.shields.io/npm/v/qazlatyn-db.svg?style=flat-square
