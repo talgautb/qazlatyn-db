@@ -13,15 +13,15 @@
 ```js
 import qazLatyn from 'qazlatyn-db';
 
-qazLatyn['ә']; // ae
-qazLatyn['ң']; // ng
+qazLatyn['ә']; // a'
+qazLatyn['ң']; // n'
 qazLatyn['қ']; // q
 
 ```
 
 ## License
 
-MIT © [talgautb](http://gtalk.kz)
+MIT © [Talgat Uspanov](http://gtalk.kz)
 
 [npm-url]: https://npmjs.org/package/qazlatyn-db
 [npm-image]: https://img.shields.io/npm/v/qazlatyn-db.svg?style=flat-square
