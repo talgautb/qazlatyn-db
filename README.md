@@ -13,8 +13,8 @@
 ```js
 import qazLatyn from 'qazlatyn-db';
 
-qazLatyn['ә']; // a'
-qazLatyn['ң']; // n'
+qazLatyn['ә']; // á
+qazLatyn['ң']; // ń
 qazLatyn['қ']; // q
 
 ```
