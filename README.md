@@ -20,7 +20,7 @@ qazLatyn['қ']; // q
 ```
 ## History
 
-| Современная кириллица | Латиница 2017 Первоначальная версия | Латиница 2017 Вторая версия | Латиница 2018 Утверждённая версия | Транскрипция МФА |
+| Modern Cyrillic | Latin 2017 initial version | Latin 2017 second edition | Latin 2018 approved version | IPA transcription |
 | --- | --- | --- | --- | --- |
 | Аа | Aa | Aa | Aa | \[ɑ\] |
 | Әә | Ae ae | Aʼaʼ | Áá | \[æ\] |
