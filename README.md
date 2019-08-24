@@ -20,7 +20,7 @@ qazLatyn['қ']; // q
 ```
 ## History
 
-| Modern Cyrillic | Latin 2017 initial version | Latin 2017 second edition | Latin 2018 approved version | IPA transcription |
+| Modern Cyrillic | Latin 2017 initial version | Latin 2017 second edition | Latin 2018 [approved version](https://online.zakon.kz/document/?doc_id=33613600) | IPA transcription |
 | --- | --- | --- | --- | --- |
 | Аа | Aa | Aa | Aa | \[ɑ\] |
 | Әә | Ae ae | Aʼaʼ | Áá | \[æ\] |
