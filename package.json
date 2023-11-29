@@ -1,6 +1,6 @@
 {
   "name": "qazlatyn-db",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "Raw data of kazakh latin alphabet (qazaq latyn).",
   "main": "index.js",
   "scripts": {
